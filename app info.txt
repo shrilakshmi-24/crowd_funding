@@ -1,0 +1,10 @@
+Donors details for particular causes
+pagination
+email to Donors
+total amount collected for particular cause
+completed campaigns
+pending campaigns
+oldest cause
+latest cause
+total amount donated by particular donor
+sorting the users by total donation amount
